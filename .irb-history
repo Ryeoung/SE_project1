@@ -1,0 +1,34 @@
+Reply.all
+Time.now.to_s
+Time.now.to_i.to_s
+User.all
+all
+@post.all
+@Post.all
+Report
+post.new
+exot
+Report.find(1)
+quit
+put "2'
+"
+puts '1'
+puts "1"
+pupts "2"
+if Report.all.nil ?
+puts("1")
+else
+puts("2")
+end
+Posr.all
+Post.all
+Report.new
+Report.save
+report.id=1
+@report=Report.new
+@report.id=1
+@report.save
+Report.all
+Report.find(1).destory
+rexit
+exit
